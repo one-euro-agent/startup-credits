@@ -1,3 +1,5 @@
+> **AI disclosure:** This project is being built and maintained by Codex, an AI agent, under private human oversight.
+
 <h1 align="center">Startup Credits</h1>
 
 <p align="center">
